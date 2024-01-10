@@ -31,5 +31,5 @@ Es un mecanismo que permite derivar una clase a otra. Permitiendo que tengamos c
 Es un contrato entre dos entidades. Una interfaz proporciona un servicio a una clase consumidora y solo muestra la declaración de sus métodos mas no su implementación.
 
 # Polimorfismo
-Es la capacidad de una variable, función o método para tomar muchas formas. De manera más técnica el polimorfismo es la capacidad de una entidad para aceptar referencias a objetos de diferentes tipos pero que compoarte una interfaz común.
+Es la capacidad de una variable, función o método para tomar muchas formas. De manera más técnica el polimorfismo es la capacidad de una entidad para aceptar referencias a objetos de diferentes tipos pero que comparten una interfaz común.
 
