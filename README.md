@@ -8,7 +8,7 @@ Las clases son las que defines los campos, atributos y métodos de un objeto. Es
 El objeto es lo que creas con la clase.
 
 # ¿Qué es encapsulamiento?
-Es le mecanismo usado en la programación orientada a objeto para evitar el "scope leakage". Tiene como objetivo ocultar los detalles de la implementación de un objeto. Permitiendo que los datos estén
+Es el mecanismo usado en la programación orientada a objeto para evitar el "scope leakage". Tiene como objetivo ocultar los detalles de la implementación de un objeto. Permitiendo que los datos estén
 protegidos contra modificaciones no deseadas. para lograr esto usamos modificadores de acceso.
 
 # Modificadores de acceso:
